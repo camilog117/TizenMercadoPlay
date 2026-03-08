@@ -1,0 +1,11 @@
+{
+  "name": "mercado-play-tizen",
+  "appName": "Mercado Play Web",
+  "version": "1.0.0",
+  "description": "Abre play.mercadolibre.co directamente en tu TV vía TizenBrew",
+  "packageType": "mods",
+  "websiteURL": "https://play.mercadolibre.co",
+  "main": "userScript.js",
+  "author": "Camilo",
+  "license": "MIT"
+} 
