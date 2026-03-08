@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Abre Mercado Play sin complicaciones
 // @author       Camilo
-// @match        https://play.mercadolibre.co/*
+// @match       https://www.cineby.gd/*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
@@ -13,4 +13,5 @@
     'use strict';
     console.log('Mercado Play cargado vía TizenBrew - ¡Disfruta!');
     // Aquí podrías poner mejoras después si quieres (fullscreen, controles remotos, etc.)
+
 })();
