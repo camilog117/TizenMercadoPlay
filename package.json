@@ -4,9 +4,10 @@
   "version": "1.0.0",
   "description": "Abre play.mercadolibre.co directamente en tu TV vía TizenBrew",
   "packageType": "mods",
-  "websiteURL": "https://www.google.com",
+  "websiteURL": "https://play.mercadolibre.com.co/",
   "main": "userScript.js",
   "author": "Camilo",
   "license": "MIT"
 
 } 
+
